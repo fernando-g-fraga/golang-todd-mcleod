@@ -1,6 +1,8 @@
 github.com/fernando-g-fraga/dog v0.0.0-20240724143030-2b0c8cff7078 h1:iaIUObvsT487VElt4VxjOyn6CcPGQwVO3wjqhR4lykY=
 github.com/fernando-g-fraga/dog v0.0.0-20240724143030-2b0c8cff7078/go.mod h1:YDN6eLSTiHio7VlvyoXP5NBxOEAooeTIt6k0j36Ob8k=
-github.com/fernando-g-fraga/puppy v0.0.0-20240724141537-5030b399507d h1:TlayEiJ+AiiELq9O2pDyylm6Vq7Sdcng4cv5N9Ia0/4=
-github.com/fernando-g-fraga/puppy v0.0.0-20240724141537-5030b399507d/go.mod h1:doY3J7P5VWnKbFCuCRzMGl59TX0kajgtGO1Kcpdrbak=
-github.com/fernando-g-fraga/puppy v0.0.0-20240724143439-e14044d8c1fa h1:1qAJGZROEY4ZcitJ+c/fzqnmo9/nLjIkxcdmjBniPSM=
-github.com/fernando-g-fraga/puppy v0.0.0-20240724143439-e14044d8c1fa/go.mod h1:07KxHowXmkrFXV7ydjHLQVs8cwGGE462Lze+pmoX/CY=
+github.com/fernando-g-fraga/puppy v1.0.0 h1:zZ1+W0LYuSJG5lKtM8oI29HdnTAH8OVE8Ts3n+SCrwE=
+github.com/fernando-g-fraga/puppy v1.0.0/go.mod h1:07KxHowXmkrFXV7ydjHLQVs8cwGGE462Lze+pmoX/CY=
+github.com/fernando-g-fraga/puppy v1.2.0 h1:eadpA3jRMAaKi1QtPpbPn8lM5zMhqNIQPSs+9sfOvVA=
+github.com/fernando-g-fraga/puppy v1.2.0/go.mod h1:07KxHowXmkrFXV7ydjHLQVs8cwGGE462Lze+pmoX/CY=
+github.com/fernando-g-fraga/puppy v1.3.0 h1:0RGeJGCYjmdxuljBL+fDofZki0Eu230gCXz5fS/EPO8=
+github.com/fernando-g-fraga/puppy v1.3.0/go.mod h1:07KxHowXmkrFXV7ydjHLQVs8cwGGE462Lze+pmoX/CY=
