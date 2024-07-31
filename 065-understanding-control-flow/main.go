@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"math/rand"
+	"math/rand" //generates a random number receving a int as paramether.
 )
 
 var x int = rand.Intn(250)
