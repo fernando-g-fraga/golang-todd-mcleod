@@ -11,5 +11,5 @@ func main() {
 	c <- 43 //43 is now attempt to be attached on the queue, but we declared the buffer as a size 1 and is already occupied with the value 42
 
 	fmt.Println(<-c)
-	fmt.Println(<-c)
+
 }
